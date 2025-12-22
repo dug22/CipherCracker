@@ -13,6 +13,7 @@ CipherCracker is a Java-based command-line tool that allows you to crack Caesar 
 - Clone the following repository with the following command ```git clone https://github.com/dug22/CipherCracker.git```
 - Locate the directory of the repository ```cd <repo-file-path>```
 -  Run the following command ```javac -d target src/main/java/io/github/dug22/ciphercracker/CipherCrackerMain.java```
+-  To run the program type the following command ```java -cp target io.github.dug22.ciphercracker.CipherCrackerMain```
 - Type the following command to get started ```ciphercracker```
 
 ### License
