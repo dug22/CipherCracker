@@ -36,6 +36,11 @@ public class EncryptCommand extends SubCommand {
 
         try {
             String plaintext = Files.readString(Path.of(filePath));
+
+            if (plaintext.isEmpty()) {
+                System.out.println("[Error] File is empty.");
+                return;
+            }
         switch (encryptionMethod) {
             case "caesar" -> {
                 try {
