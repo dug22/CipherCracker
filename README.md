@@ -1,4 +1,4 @@
-# CipherCracker
+# Cipher Cracker
 
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 [![Stars](https://img.shields.io/github/stars/dug22/carpentry.svg)](https://github.com/dug22/carpentry/stargazers)
